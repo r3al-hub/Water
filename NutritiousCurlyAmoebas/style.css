@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: #3359f0;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #ffffff;
+}
+
+h4{
+  color:#5c92ff;;
+}
+
+body{background-image: url(https://th.bing.com/th/id/R.ea218b4b3420096dc18de45d80022b61?rik=7xNsYiSAlfuqkg&riu=http%3a%2f%2fhdwpro.com%2fwp-content%2fuploads%2f2020%2f08%2fAwesome-Black-Wallpaper.jpeg&ehk=FkBD%2bsMtd2L%2brm3Rst373o8DmJInKibE84jhipGaVE0%3d&risl=&pid=ImgRaw&r=0);
+     background-repeat: no-repeat;
+     background-size: 1000%;
+     color: white;
+    }
+p{
+  color: white; 
+}
